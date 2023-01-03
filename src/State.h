@@ -1,0 +1,3 @@
+enum state {
+	OFF, ON
+};
